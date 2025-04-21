@@ -1,5 +1,0 @@
-services:
-  titanic-api:
-    image: "titanic-app"
-    ports:
-      - "9999:9999"

@@ -10,7 +10,6 @@ def basic_levels():
   logger.debug('This is a simple DEBUG level message.')
   logger.info('This is a simple INFO level message.')
   logger.warning('This is a simple WARNING level message.')
-  logger.warn('This is a simple WARN level message.')
   logger.error('This is a simple ERROR level message.')
   logger.exception('This is an ERROR level message with exc_info.')
 
